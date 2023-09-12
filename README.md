@@ -1,7 +1,7 @@
 # Discord Message Logger Bot
 
 Open Source Code😉For Message Logger For Discord Bot😎
-
+[Contact ME](https://github.com/justn1k0/discord-message-logger#contact-me)
 # ⚠Warning⚠ 
 This Github Repo Is **📖EDUCATIONAL ONLY📖**
 Please **‼️DON'T ABUSE IT‼️**
