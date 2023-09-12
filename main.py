@@ -23,4 +23,4 @@ async def on_message(message):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-bot.run('TOKEN!')
+bot.run('TOKEN_ HERE!')
